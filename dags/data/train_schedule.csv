@@ -1,0 +1,51 @@
+Train Number,Train Name,Source,Destination,Arrival Time,Departure Time,Travel Duration,Days of Operation,Train Type
+15937,Duronto Express,Bangalore City,New Delhi,22:41:58,8:15:53,9:19:00,Alternate Days,Express
+90076,Shatabdi Express,Hyderabad Deccan,New Delhi,9:38:4,21:26:5,26:49:00,Daily,Passenger
+66845,Tejas Express,Hyderabad Deccan,Mumbai Central,5:45:16,0:10:39,26:23:00,Alternate Days,Passenger
+37575,Garib Rath,New Delhi,Mumbai Central,8:12:9,8:51:20,20:39:00,Weekends,Passenger
+15485,Jan Shatabdi,Chennai Central,New Delhi,17:8:41,16:57:12,18:58:00,Alternate Days,Express
+35100,Rajdhani Express,Mumbai Central,Bangalore City,18:18:5,21:56:59,11:42:00,Daily,Express
+77662,Tejas Express,Hyderabad Deccan,New Delhi,14:17:41,7:26:5,3:12:00,Alternate Days,Special
+58140,Tejas Express,Mumbai Central,Howrah Junction,22:58:30,9:5:51,21:42:00,Wed-Fri,Superfast
+74839,Duronto Express,Pune Junction,New Delhi,20:37:29,20:53:28,11:32:00,Weekends,Superfast
+37962,Shatabdi Express,Howrah Junction,Chennai Central,1:42:40,22:21:11,27:1:00,Mon-Sat,Express
+41674,Garib Rath,New Delhi,Chennai Central,5:21:4,4:7:23,3:50:00,Wed-Fri,Express
+28115,Duronto Express,Mumbai Central,Pune Junction,0:15:26,8:46:47,8:58:00,Daily,Superfast
+98556,Jan Shatabdi,New Delhi,Howrah Junction,8:24:49,0:10:57,4:48:00,Mon-Sat,Mail
+92841,Rajdhani Express,Pune Junction,Mumbai Central,13:38:19,4:46:27,11:33:00,Wed-Fri,Passenger
+92522,Garib Rath,Howrah Junction,Chennai Central,2:51:23,0:25:2,8:49:00,Weekends,Passenger
+99936,Duronto Express,New Delhi,Pune Junction,22:1:28,8:42:25,25:33:00,Daily,Passenger
+66731,Shatabdi Express,Howrah Junction,New Delhi,11:35:51,12:20:56,25:41:00,Mon-Sat,Express
+84587,Duronto Express,Bangalore City,Pune Junction,11:34:1,14:40:8,14:28:00,Alternate Days,Passenger
+46752,Shatabdi Express,New Delhi,Mumbai Central,3:1:10,6:28:44,12:1:00,Weekends,Passenger
+89368,Shatabdi Express,Mumbai Central,Chennai Central,8:30:20,8:44:41,15:30:00,Wed-Fri,Passenger
+73864,Duronto Express,Hyderabad Deccan,Chennai Central,22:38:59,22:39:53,29:40:00,Mon-Sat,Mail
+99624,Duronto Express,Pune Junction,Hyderabad Deccan,22:40:39,6:3:6,28:21:00,Alternate Days,Express
+26396,Garib Rath,Hyderabad Deccan,Bangalore City,4:2:33,5:37:45,2:41:00,Daily,Passenger
+80469,Duronto Express,Howrah Junction,Bangalore City,15:13:28,6:40:24,5:3:00,Daily,Special
+31555,Rajdhani Express,Howrah Junction,Bangalore City,15:57:25,20:10:8,2:15:00,Wed-Fri,Superfast
+74766,Rajdhani Express,Howrah Junction,Pune Junction,1:55:7,6:9:48,23:53:00,Weekends,Special
+21374,Jan Shatabdi,Pune Junction,Hyderabad Deccan,4:46:42,23:53:43,4:24:00,Alternate Days,Mail
+51484,Rajdhani Express,Pune Junction,Bangalore City,19:13:19,22:26:52,9:9:00,Alternate Days,Mail
+74764,Tejas Express,Howrah Junction,Bangalore City,16:17:35,4:35:3,23:58:00,Mon-Sat,Mail
+87889,Garib Rath,Chennai Central,Bangalore City,8:17:42,6:27:6,13:22:00,Alternate Days,Mail
+81675,Tejas Express,Chennai Central,Howrah Junction,14:55:24,1:33:23,3:0:00,Daily,Superfast
+20305,Shatabdi Express,Hyderabad Deccan,Howrah Junction,11:50:42,4:17:39,20:10:00,Wed-Fri,Express
+61301,Tejas Express,Mumbai Central,Hyderabad Deccan,1:17:24,4:8:59,17:47:00,Daily,Passenger
+17271,Duronto Express,Howrah Junction,Bangalore City,6:22:28,7:20:4,9:10:00,Wed-Fri,Special
+42231,Garib Rath,Hyderabad Deccan,Howrah Junction,18:4:12,0:21:21,19:42:00,Mon-Sat,Mail
+69148,Rajdhani Express,Bangalore City,New Delhi,17:46:17,9:54:21,28:42:00,Wed-Fri,Passenger
+34975,Shatabdi Express,Hyderabad Deccan,New Delhi,12:38:0,17:3:34,16:29:00,Alternate Days,Superfast
+63635,Shatabdi Express,Howrah Junction,Pune Junction,11:5:35,9:27:25,3:11:00,Mon-Sat,Mail
+30279,Shatabdi Express,Bangalore City,Chennai Central,6:59:39,12:51:25,13:49:00,Weekends,Superfast
+79120,Jan Shatabdi,New Delhi,Howrah Junction,21:41:7,11:55:16,16:11:00,Daily,Special
+17691,Rajdhani Express,Pune Junction,Bangalore City,7:14:47,3:51:7,13:51:00,Daily,Passenger
+58243,Shatabdi Express,Howrah Junction,Mumbai Central,10:3:16,6:40:32,22:24:00,Weekends,Express
+94480,Garib Rath,Mumbai Central,Bangalore City,10:12:42,20:13:37,4:45:00,Alternate Days,Superfast
+68918,Duronto Express,Bangalore City,Hyderabad Deccan,3:54:4,7:34:46,3:16:00,Wed-Fri,Special
+71369,Shatabdi Express,Chennai Central,Hyderabad Deccan,11:3:46,3:56:54,26:2:00,Daily,Mail
+78331,Duronto Express,Howrah Junction,Hyderabad Deccan,23:48:21,23:52:0,23:31:00,Wed-Fri,Passenger
+78970,Shatabdi Express,Mumbai Central,Pune Junction,6:10:34,2:16:26,24:34:00,Weekends,Mail
+88448,Garib Rath,Chennai Central,Bangalore City,11:50:17,23:48:58,12:26:00,Mon-Sat,Passenger
+86689,Jan Shatabdi,Pune Junction,Hyderabad Deccan,11:23:41,17:45:18,12:31:00,Alternate Days,Mail
+94358,Garib Rath,Bangalore City,Pune Junction,10:31:38,13:53:12,14:36:00,Daily,Special
