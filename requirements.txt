@@ -3,3 +3,5 @@ apache-airflow
 pandas
 sqlalchemy
 streamlit
+openpyxl
+psycopg2-binary

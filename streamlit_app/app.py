@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-UPLOAD_DIR = "uploads/"
+UPLOAD_DIR = "/Users/snehapratap/desktop/etl/data"
 if not os.path.exists(UPLOAD_DIR):
     os.makedirs(UPLOAD_DIR)
 
@@ -19,3 +19,4 @@ if uploaded_file:
     
     os.system("airflow dags trigger train_schedule_etl")
     st.success("ETL pipeline triggered!")
+

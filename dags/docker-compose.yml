@@ -24,6 +24,8 @@ services:
     volumes:
       - ./airflow/dags:/opt/airflow/dags
       - ./airflow/plugins:/opt/airflow/plugins
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/data:/Users/snehapratap/desktop/etl/data
     depends_on:
       - mysql
 

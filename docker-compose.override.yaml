@@ -1,0 +1,14 @@
+version: '3'
+services:
+  scheduler:
+    volumes:
+      - ./data:/opt/airflow/data
+      - ./uploads:/opt/airflow/uploads
+  webserver:
+    volumes:
+      - ./data:/opt/airflow/data
+      - ./uploads:/opt/airflow/uploads
+  triggerer:
+    volumes:
+      - ./data:/opt/airflow/data
+      - ./uploads:/opt/airflow/uploads 
